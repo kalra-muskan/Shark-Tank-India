@@ -69,7 +69,7 @@ In this section, I delved into understanding the preferences of investors partic
   ![Aman](https://github.com/kalra-muskan/Shark-Tank-India/blob/main/aman-gupta.jpg)
   
 * __Amit Jain:__ Shark Amit Jain known for her very well-established brand *Car Dekho* preferred __Beauty/Fashion__ industry during Season 2.
-  ![Amit](
+  ![Amit](https://github.com/kalra-muskan/Shark-Tank-India/blob/main/amit-jain.jpg)
   
 * __Anupam Mittal:__ Shark Anupam Mittal known for her very well-established Metrimonial site *Shaadi.com* preferred  __Manufacturing__ industry during Season 1 and __Beauty/Fashion__ industry during Season 2.
   ![Anupam](https://github.com/kalra-muskan/Shark-Tank-India/blob/main/anupam-mittal.jpg)
@@ -111,7 +111,13 @@ Based on the analysis, the following __Recommendations__ are offered for the ent
 *  Be strategic with your funding. Explain how you will use the money to drive the growth of your business.
 *  Be compliant with legal and regulatory requirements. Ensure that your business operations are ethical and follow the relevant laws and regulations.
 
-A snippet of the analytical insights drawn from the analysis of this dataset using Microsoft Excel Software is:
+You can find the additional resources here:
+* Dataset & Excel Analysis: 
+  (https://github.com/kalra-muskan/Shark-Tank-India/blob/main/shark-tank-india.xlsx)
+* Detailed Dashboard: 
+  (https://github.com/kalra-muskan/Shark-Tank-India/blob/main/s-tank-india.pbix)
+* SQL Queries: 
+  (https://github.com/kalra-muskan/Shark-Tank-India/blob/main/Shark%20Tank%20India%20SQL%20Queries.docx)
+* Detailed Report: (https://github.com/kalra-muskan/Shark-Tank-India/blob/main/shark-tank-report.pdf)
 
-You can find the detailed analysis of the data using SQL (Structured Query Language) in this document.
 
