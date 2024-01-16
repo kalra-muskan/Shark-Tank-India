@@ -1,4 +1,5 @@
 # Shark Tank India Analysis
+![logo](https://github.com/kalra-muskan/Shark-Tank-India/blob/main/logo.jpg)
 
 ## Introduction
 
@@ -64,14 +65,29 @@ The Exploratory Data Analysis phase involved a comprehensive examination of the 
 ## Investor Preferences Analysis:
 In this section, I delved into understanding the preferences of investors participating in Shark Tank India. The analysis focused on discerning patterns and tendencies exhibited by investors when evaluating and choosing investment opportunities. Key insights include:
 
-* __Aman Gupta:__ Shark Aman Gupta known for his very well-established Sound and Electronics brand *Boat* preferred  __Food__ industry during Season 1 and __Beauty/Fashion__ industry during Season 2.    
-* __Amit Jain:__ Shark Amit Jain known for her very well-established brand *Car Dekho* preferred __Beauty/Fashion__ industry during Season 2.  
-* __Anupam Mittal:__ Shark Anupam Mittal known for her very well-established Metrimonial site *Shaadi.com* preferred  __Manufacturing__ industry during Season 1 and __Beauty/Fashion__ industry during Season 2.    
-* __Ashneer Grover:__ Shark Ashneer Grover known for her very well-established Fintech Company *Bharat Pe* preferred __Food__ industry during Season 1.  
-* __Ghazal Alagh:__ Shark Ghazal Alagh known for her very well-established Skincare and beauty brand *Mama Earth* preferred __Food__ industry during Season 1.  
-* __Namita Thapar:__ Shark Namita Thapar known for her very well-established Phrma company *MCure Pharma* preferred  __Beauty/Fashion__ industry during Season 1 and __Medical/Health__ industry during Season 2.  
-* __Peyush Bansal:__ Shark Peyush Bansal known for her very well-established  brand *Lenskart* preferred __Technology/Software__ industry during Season 1 and __Medical/Health__ industry during Season 2.  
-* __Vineeta Singh:__ Shark Vineeta Singh known for her very well-established Skincare and beauty brand *Sugar Cosmetics* preferred __Food__ industry throughout both seasons.  
+* __Aman Gupta:__ Shark Aman Gupta known for his very well-established Sound and Electronics brand *Boat* preferred  __Food__ industry during Season 1 and __Beauty/Fashion__ industry during Season 2.
+  ![Aman](https://github.com/kalra-muskan/Shark-Tank-India/blob/main/aman-gupta.jpg)
+  
+* __Amit Jain:__ Shark Amit Jain known for her very well-established brand *Car Dekho* preferred __Beauty/Fashion__ industry during Season 2.
+  ![Amit](
+  
+* __Anupam Mittal:__ Shark Anupam Mittal known for her very well-established Metrimonial site *Shaadi.com* preferred  __Manufacturing__ industry during Season 1 and __Beauty/Fashion__ industry during Season 2.
+  ![Anupam](https://github.com/kalra-muskan/Shark-Tank-India/blob/main/anupam-mittal.jpg)
+  
+* __Ashneer Grover:__ Shark Ashneer Grover known for her very well-established Fintech Company *Bharat Pe* preferred __Food__ industry during Season 1.
+  ![Ashneer](https://github.com/kalra-muskan/Shark-Tank-India/blob/main/ashneer-grover.jpg)
+  
+* __Ghazal Alagh:__ Shark Ghazal Alagh known for her very well-established Skincare and beauty brand *Mama Earth* preferred __Food__ industry during Season 1.
+  ![Ghazal](https://github.com/kalra-muskan/Shark-Tank-India/blob/main/ghazal-alagh.jpg)
+  
+* __Namita Thapar:__ Shark Namita Thapar known for her very well-established Phrma company *MCure Pharma* preferred  __Beauty/Fashion__ industry during Season 1 and __Medical/Health__ industry during Season 2.
+  ![Namita](https://github.com/kalra-muskan/Shark-Tank-India/blob/main/namita-thapar.jpg)
+  
+* __Peyush Bansal:__ Shark Peyush Bansal known for her very well-established  brand *Lenskart* preferred __Technology/Software__ industry during Season 1 and __Medical/Health__ industry during Season 2.
+  ![Peyush](https://github.com/kalra-muskan/Shark-Tank-India/blob/main/peyush-bansal.jpg)
+  
+* __Vineeta Singh:__ Shark Vineeta Singh is known for her very well-established Skincare and beauty brand *Sugar Cosmetics* preferred __Food__ industry throughout both seasons.
+  ![Vineeta](https://github.com/kalra-muskan/Shark-Tank-India/blob/main/vineeta-singh.jpg)  
 
 ## Conclusion and Recommendations
 
